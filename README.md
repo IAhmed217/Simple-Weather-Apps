@@ -9,4 +9,4 @@ To run the server:
 python .\manage.py runserver 
 ```
 
-More features and endpoints will be considered.
+More features and endpoints will be considered and implemented.
